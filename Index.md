@@ -8,7 +8,4 @@ Bem-vindo ao índice central. Use os links abaixo para navegar.
 - [[Ferramentas]]
 - [[Projetos]]
 - [[Referências]]
-
-## Links Rápidos
-- [Repositório GitHub](https://github.com/seurepositorio)
-- [Documentação Oficial MariaDB](https://mariadb.com/kb/en/documentation/)
+- 
