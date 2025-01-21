@@ -1,4 +1,3 @@
-
 Bem-vindo ao índice central. Use os links abaixo para navegar.
 
 ## Áreas do Conhecimento
